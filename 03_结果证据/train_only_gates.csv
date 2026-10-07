@@ -1,0 +1,9 @@
+branch,scope,alpha
+full,global,0.15179037668434275
+full,pseudo_chem_only,0.38328694514779277
+full,pseudo_strain_only,0.11512953490854443
+full,pseudo_both,0.19326567558508664
+flow,global,0.14214738819590855
+flow,pseudo_chem_only,0.3403250730504334
+flow,pseudo_strain_only,0.10719324976049492
+flow,pseudo_both,0.191209421834083

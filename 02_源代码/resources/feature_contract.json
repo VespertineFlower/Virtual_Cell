@@ -1,0 +1,8 @@
+{
+  "test_rows": 4454,
+  "protein_columns": 4232,
+  "id_column": "sample_ID",
+  "prediction_scale": "log2",
+  "feature_rule": "Keep proteins with training missing rate < 0.697",
+  "status": "frozen"
+}

@@ -1,0 +1,15 @@
+model,split,samples,valid_values,log2_rmse
+random_forest_descriptors,val_chem_only,1065,3969440,0.3260614275932312
+random_forest_maccs,val_chem_only,1065,3969440,0.3262289762496948
+rbf_kernel_morgan,val_chem_only,1065,3969440,0.32631775736808777
+ridge_descriptors,val_chem_only,1065,3969440,0.32632163166999817
+random_forest_combined,val_chem_only,1065,3969440,0.3263383209705353
+ridge_morgan,val_chem_only,1065,3969440,0.32638314366340637
+condition_mlp,val_chem_only,1065,3969440,0.3264465034008026
+ridge_combined,val_chem_only,1065,3969440,0.3264683485031128
+rbf_kernel_combined,val_chem_only,1065,3969440,0.3264697194099426
+tanimoto_knn_morgan,val_chem_only,1065,3969440,0.32647302746772766
+rbf_kernel_maccs,val_chem_only,1065,3969440,0.32648900151252747
+random_forest_morgan,val_chem_only,1065,3969440,0.32650867104530334
+rbf_kernel_descriptors,val_chem_only,1065,3969440,0.3265196979045868
+ridge_maccs,val_chem_only,1065,3969440,0.32655179500579834

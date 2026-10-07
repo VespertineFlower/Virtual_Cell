@@ -1,0 +1,9 @@
+lightgbm>=4.7.0
+matplotlib>=3.10.0
+numpy>=2.1
+pandas>=2.3
+rdkit>=2026.3
+requests>=2.31
+scikit-learn>=1.7
+scipy>=1.15
+torch>=2.13

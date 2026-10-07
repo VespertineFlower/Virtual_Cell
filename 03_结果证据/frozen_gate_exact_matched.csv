@@ -1,0 +1,13 @@
+model,split,samples,valid_values,rmse
+Matched Control,val_chem_only,1065,3907993,0.35253390669822693
+Condition MLP,val_chem_only,1065,3907993,0.32138577103614807
+Train-only gated MLP+ES-IFM,val_chem_only,1065,3907993,0.31784114241600037
+Matched Control,val_strain_only,1333,4944824,0.3778713047504425
+Condition MLP,val_strain_only,1333,4944824,0.46520760655403137
+Train-only gated MLP+ES-IFM,val_strain_only,1333,4944824,0.4630593955516815
+Matched Control,val_both,269,981376,0.35517066717147827
+Condition MLP,val_both,269,981376,0.484090656042099
+Train-only gated MLP+ES-IFM,val_both,269,981376,0.4785749614238739
+Matched Control,val_time,139,507914,0.4095474183559418
+Condition MLP,val_time,139,507914,0.32292497158050537
+Train-only gated MLP+ES-IFM,val_time,139,507914,0.32183167338371277

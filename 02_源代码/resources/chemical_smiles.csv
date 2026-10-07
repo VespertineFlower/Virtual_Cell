@@ -1,0 +1,47 @@
+﻿perturbation_no_concentration,chemical_role,canonical_smiles,isomeric_smiles,status,source
+"(1R, 2S, 5R) - (-) - Menthol",train,CC1CCC(C(C1)O)C(C)C,C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C,ok,PubChem PUG REST
+1-10 Phenanthroline monohydrate,train,C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.O,C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.O,ok,PubChem PUG REST
+4-Hydroxytamoxifen,train,CCC(=C(C1=CC=C(C=C1)O)C2=CC=C(C=C2)OCCN(C)C)C3=CC=CC=C3,CC/C(=C(\C1=CC=C(C=C1)O)/C2=CC=C(C=C2)OCCN(C)C)/C3=CC=CC=C3,ok,PubChem PUG REST
+Amiodarone hydrochloride,train,CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCCN(CC)CC)I.Cl,CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCCN(CC)CC)I.Cl,ok,PubChem PUG REST
+Amphotericin B,val,CC1C=CC=CC=CC=CC=CC=CC=CC(CC2C(C(CC(O2)(CC(CC(C(CCC(CC(CC(=O)OC(C(C1O)C)C)O)O)O)O)O)O)O)C(=O)O)OC3C(C(C(C(O3)C)O)N)O,C[C@H]1/C=C/C=C/C=C/C=C/C=C/C=C/C=C/[C@@H](C[C@H]2[C@@H]([C@H](C[C@](O2)(C[C@H](C[C@H]([C@@H](CC[C@H](C[C@H](CC(=O)O[C@H]([C@@H]([C@@H]1O)C)C)O)O)O)O)O)O)O)C(=O)O)O[C@H]3[C@H]([C@H]([C@@H]([C@H](O3)C)O)N)O,ok,PubChem PUG REST
+Anisomycin,train,CC(=O)OC1C(CNC1CC2=CC=C(C=C2)OC)O,CC(=O)O[C@@H]1[C@H](CN[C@@H]1CC2=CC=C(C=C2)OC)O,ok,PubChem PUG REST
+Artemisinin,train,CC1CCC2C(C(=O)OC3C24C1CCC(O3)(OO4)C)C,C[C@@H]1CC[C@H]2[C@H](C(=O)O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)C,ok,PubChem PUG REST
+Brefeldin A,train,CC1CCCC=CC2CC(CC2C(C=CC(=O)O1)O)O,C[C@H]1CCC/C=C/[C@@H]2C[C@@H](C[C@H]2[C@@H](/C=C/C(=O)O1)O)O,ok,PubChem PUG REST
+CHX,train,CC1CC(C(=O)C(C1)C(CC2CC(=O)NC(=O)C2)O)C,C[C@H]1C[C@@H](C(=O)[C@@H](C1)[C@@H](CC2CC(=O)NC(=O)C2)O)C,ok,PubChem PUG REST
+Cisplatin,train,N.N.Cl[Pt]Cl,N.N.Cl[Pt]Cl,ok,PubChem PUG REST
+Clomiphene citrate,train,CCN(CC)CCOC1=CC=C(C=C1)C(=C(C2=CC=CC=C2)Cl)C3=CC=CC=C3.C(C(=O)O)C(CC(=O)O)(C(=O)O)O,CCN(CC)CCOC1=CC=C(C=C1)C(=C(C2=CC=CC=C2)Cl)C3=CC=CC=C3.C(C(=O)O)C(CC(=O)O)(C(=O)O)O,ok,PubChem PUG REST
+Clotrimazole,train,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3Cl)N4C=CN=C4,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3Cl)N4C=CN=C4,ok,PubChem PUG REST
+Cyclopiazonic acid,train,CC(=O)C1=C(C2C3C(CC4=C5C3=CNC5=CC=C4)C(N2C1=O)(C)C)O,CC(=O)C1=C([C@@H]2[C@@H]3[C@@H](CC4=C5C3=CNC5=CC=C4)C(N2C1=O)(C)C)O,ok,PubChem PUG REST
+DMSO,train,CS(=O)C,CS(=O)C,ok,PubChem PUG REST
+Desipramine hydrochloride,train,CNCCCN1C2=CC=CC=C2CCC3=CC=CC=C31.Cl,CNCCCN1C2=CC=CC=C2CCC3=CC=CC=C31.Cl,ok,PubChem PUG REST
+Dyclonine hydrochloride,train,CCCCOC1=CC=C(C=C1)C(=O)CCN2CCCCC2.Cl,CCCCOC1=CC=C(C=C1)C(=O)CCN2CCCCC2.Cl,ok,PubChem PUG REST
+EDTA,train,C(CN(CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O,C(CN(CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O,ok,PubChem PUG REST
+Emodin,train,CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)O,CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)O,ok,PubChem PUG REST
+FCCP,val,C1=CC(=CC=C1NN=C(C#N)C#N)OC(F)(F)F,C1=CC(=CC=C1NN=C(C#N)C#N)OC(F)(F)F,ok,PubChem PUG REST
+Geldanamycin,train,CC1CC(C(C(C=C(C(C(C=CC=C(C(=O)NC2=CC(=O)C(=C(C1)C2=O)OC)C)OC)OC(=O)N)C)C)O)OC,C[C@H]1C[C@@H]([C@@H]([C@H](/C=C(/[C@@H]([C@H](/C=C\C=C(\C(=O)NC2=CC(=O)C(=C(C1)C2=O)OC)/C)OC)OC(=O)N)\C)C)O)OC,ok,PubChem PUG REST
+Haloperidol,train,C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F,C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F,ok,PubChem PUG REST
+Harmine hydrochloride,train,CC1=NC=CC2=C1NC3=C2C=CC(=C3)OC.Cl,CC1=NC=CC2=C1NC3=C2C=CC(=C3)OC.Cl,ok,PubChem PUG REST
+Hoechst 33258,train,CN1CCN(CC1)C2=CC3=C(C=C2)N=C(N3)C4=CC5=C(C=C4)N=C(N5)C6=CC=C(C=C6)O,CN1CCN(CC1)C2=CC3=C(C=C2)N=C(N3)C4=CC5=C(C=C4)N=C(N5)C6=CC=C(C=C6)O,ok,PubChem PUG REST
+Hydroxyurea,val,C(=O)(N)NO,C(=O)(N)NO,ok,PubChem PUG REST
+LY 294002 hydrochloride,train,C1COCCN1C2=CC(=O)C3=C(O2)C(=CC=C3)C4=CC=CC=C4.Cl,C1COCCN1C2=CC(=O)C3=C(O2)C(=CC=C3)C4=CC=CC=C4.Cl,ok,PubChem PUG REST
+NaCl,train,[Na+].[Cl-],[Na+].[Cl-],ok,PubChem PUG REST
+Nigericin,train,CC1CCC(OC1C(C)C(=O)O)CC2CC(C(C3(O2)C(CC(O3)(C)C4CCC(O4)(C)C5C(CC(O5)C6C(CC(C(O6)(CO)O)C)C)C)C)C)OC,C[C@H]1CC[C@@H](O[C@H]1[C@@H](C)C(=O)O)C[C@@H]2C[C@H]([C@H]([C@@]3(O2)[C@@H](C[C@@](O3)(C)[C@H]4CC[C@@](O4)(C)[C@H]5[C@H](C[C@@H](O5)[C@@H]6[C@H](C[C@H]([C@@](O6)(CO)O)C)C)C)C)C)OC,ok,PubChem PUG REST
+Nocodazole,train,COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C3=CC=CS3,COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C3=CC=CS3,ok,PubChem PUG REST
+Nystatin dihydrate,train,CC1C=CC=CCCC=CC=CC=CC=CC(CC2C(C(CC(O2)(CC(C(CCC(CC(CC(CC(=O)OC(C(C1O)C)C)O)O)O)O)O)O)O)C(=O)O)OC3C(C(C(C(O3)C)O)N)O.O.O,C[C@@H]1[C@H]([C@@H]([C@@H]([C@@H](O1)OC2CC3C(C(CC(O3)(CC(C(CCC(CC(CC(CC(=O)OC(C(C(C(/C=C/C=C/CC/C=C/C=C/C=C/C=C2)C)O)C)C)O)O)O)O)O)O)O)C(=O)O)O)N)O.O.O,ok,PubChem PUG REST
+Oligomycin,train,CCC1CCC2C(C(C(C3(O2)CCC(C(O3)CC(C)O)C)C)OC(=O)C=CC(C(C(C(=O)C(C(C(C(=O)C(C(C(CC=CC=C1)C)O)(C)O)C)O)C)C)O)C)C,CC[C@@H]\1CC[C@H]2[C@H]([C@H]([C@@H]([C@]3(O2)CC[C@@H]([C@@H](O3)C[C@@H](C)O)C)C)OC(=O)/C=C/[C@@H]([C@H]([C@@H](C(=O)[C@@H]([C@H]([C@@H](C(=O)[C@]([C@H]([C@@H](C/C=C/C=C1)C)O)(C)O)C)O)C)C)O)C)C,ok,PubChem PUG REST
+Parthenolide,train,CC1=CCCC2(C(O2)C3C(CC1)C(=C)C(=O)O3)C,C/C/1=C\CC[C@@]2([C@@H](O2)[C@@H]3[C@@H](CC1)C(=C)C(=O)O3)C,ok,PubChem PUG REST
+Pentamidine isethionate,val,C1=CC(=CC=C1C(=N)N)OCCCCCOC2=CC=C(C=C2)C(=N)N.C(CS(=O)(=O)O)O.C(CS(=O)(=O)O)O,C1=CC(=CC=C1C(=N)N)OCCCCCOC2=CC=C(C=C2)C(=N)N.C(CS(=O)(=O)O)O.C(CS(=O)(=O)O)O,ok,PubChem PUG REST
+Quality Control,train,,,error: HTTP Error 404: PUGREST.NotFound,PubChem PUG REST
+Raloxifene hydrochloride,val,C1CCN(CC1)CCOC2=CC=C(C=C2)C(=O)C3=C(SC4=C3C=CC(=C4)O)C5=CC=C(C=C5)O.Cl,C1CCN(CC1)CCOC2=CC=C(C=C2)C(=O)C3=C(SC4=C3C=CC(=C4)O)C5=CC=C(C=C5)O.Cl,ok,PubChem PUG REST
+Rapamycin,train,CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)O)C)C)O)OC)C)C)C)OC,C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)O)C)/C)O)OC)C)C)/C)OC,ok,PubChem PUG REST
+SDS,train,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],ok,PubChem PUG REST
+Sorbitol,train,C(C(C(C(C(CO)O)O)O)O)O,C([C@H]([C@H]([C@@H]([C@H](CO)O)O)O)O)O,ok,PubChem PUG REST
+Staurosporine,train,CC12C(C(CC(O1)N3C4=CC=CC=C4C5=C6C(=C7C8=CC=CC=C8N2C7=C53)CNC6=O)NC)OC,C[C@@]12[C@@H]([C@@H](C[C@@H](O1)N3C4=CC=CC=C4C5=C6C(=C7C8=CC=CC=C8N2C7=C53)CNC6=O)NC)OC,ok,PubChem PUG REST
+Sulfometuron methyl,val,CC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC)C,CC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC)C,ok,PubChem PUG REST
+Trichostatin A,train,CC(C=C(C)C=CC(=O)NO)C(=O)C1=CC=C(C=C1)N(C)C,C[C@H](/C=C(\C)/C=C/C(=O)NO)C(=O)C1=CC=C(C=C1)N(C)C,ok,PubChem PUG REST
+Trifluoperazine dihydrochloride,train,CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F.Cl.Cl,CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F.Cl.Cl,ok,PubChem PUG REST
+Tunicamycin,train,CC(C)CCCCCCCCCC=CC(=O)NC1C(C(C(OC1OC2C(C(C(C(O2)CO)O)O)NC(=O)C)CC(C3C(C(C(O3)N4C=CC(=O)NC4=O)O)O)O)O)O,CC(C)CCCCCCCCC/C=C/C(=O)N[C@@H]1[C@H]([C@H]([C@H](O[C@H]1O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)NC(=O)C)C[C@H]([C@@H]3[C@H]([C@H]([C@@H](O3)N4C=CC(=O)NC4=O)O)O)O)O)O,ok,PubChem PUG REST
+U-73122,train,CC12CCC3C(C1CCC2NCCCCCCN4C(=O)C=CC4=O)CCC5=C3C=CC(=C5)OC,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2NCCCCCCN4C(=O)C=CC4=O)CCC5=C3C=CC(=C5)OC,ok,PubChem PUG REST
+Valinomycin,train,CC1C(=O)NC(C(=O)OC(C(=O)NC(C(=O)OC(C(=O)NC(C(=O)OC(C(=O)NC(C(=O)OC(C(=O)NC(C(=O)OC(C(=O)NC(C(=O)O1)C(C)C)C(C)C)C(C)C)C)C(C)C)C(C)C)C(C)C)C)C(C)C)C(C)C)C(C)C,C[C@H]1C(=O)N[C@H](C(=O)O[C@@H](C(=O)N[C@@H](C(=O)O[C@H](C(=O)N[C@H](C(=O)O[C@@H](C(=O)N[C@@H](C(=O)O[C@H](C(=O)N[C@H](C(=O)O[C@@H](C(=O)N[C@@H](C(=O)O1)C(C)C)C(C)C)C(C)C)C)C(C)C)C(C)C)C(C)C)C)C(C)C)C(C)C)C(C)C,ok,PubChem PUG REST
+Water,train,O,O,ok,PubChem PUG REST
+Wortmannin,train,CC(=O)OC1CC2(C(CCC2=O)C3=C1C4(C(OC(=O)C5=COC(=C54)C3=O)COC)C)C,CC(=O)O[C@@H]1C[C@]2([C@@H](CCC2=O)C3=C1[C@]4([C@H](OC(=O)C5=COC(=C54)C3=O)COC)C)C,ok,PubChem PUG REST

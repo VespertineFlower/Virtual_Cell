@@ -1,0 +1,11 @@
+{
+  "strain_dimension": 32,
+  "chemical_dimension": 29,
+  "chemical_fingerprint_bits": 2215,
+  "chemical_descriptor_count": 12,
+  "content_fit_uses_response_labels": false,
+  "protocol": "fully unseen evaluation chemicals",
+  "model": "RBF kernel ridge on drug-mean PCA response plus learned strain offset",
+  "hyperparameter_selection": "leave-one-training-drug-out",
+  "evaluation_labels_used_for_selection": false
+}
